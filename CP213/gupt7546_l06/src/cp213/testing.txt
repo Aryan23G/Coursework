@@ -1,0 +1,16 @@
+Test scannerTest
+
+Enter an integer ("Quit" to stop): 
+4
+Enter an integer ("Quit" to stop): 
+5
+Enter an integer ("Quit" to stop): 
+6
+Enter an integer ("Quit" to stop): 
+7
+Enter an integer ("Quit" to stop): 
+8
+Enter an integer ("Quit" to stop): 
+quit
+That is not an interger!
+Total: 30

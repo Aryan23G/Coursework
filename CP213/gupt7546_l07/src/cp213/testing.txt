@@ -1,0 +1,10 @@
+Slider: 8
+Slider: 31
+Slider: 48
+Radio Button: Star Wars
+Radio Button: Star Trek
+Checkbox: [Mustard]
+Checkbox: [Mustard, Ketchup]
+Checkbox: [Mustard, Ketchup, Onions]
+Spinner: February
+Radio Button: Star Trek

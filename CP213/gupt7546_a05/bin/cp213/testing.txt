@@ -1,0 +1,31 @@
+Welcome to WLU Foodorama!
+
+Menu:
+ 1) hot dog      $ 1.25
+ 2) hamburger    $ 2.00
+ 3) cheeseburger $ 2.75
+ 4) fries        $ 1.75
+ 5) poutine      $ 3.75
+ 6) pizza        $10.00
+ 7) drink        $ 1.50
+
+Press 0 when done.
+Press any other key to see the menu again.
+
+Command: 1
+How many do you want? 3
+Command: 2
+How many do you want? 5
+Command: 7
+How many do you want? 10
+Command: 0
+Receipt
+hamburger      5 @ $  2.00 = $ 10.00
+drink          10 @ $  1.50 = $ 15.00
+hot dog        3 @ $  1.25 = $  3.75
+
+Subtotal:                   $ 28.75
+Taxes:                      $  3.74
+Total:                      $ 32.49
+
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;quanity&apos; in &apos;cp213.OrderPanel.QuantityListener.focusLost(...)&apos; to &apos;quantity&apos;&#x0A;- Original project: &apos;gupt7546_a05&apos;&#x0A;- Original element: &apos;cp213.OrderPanel.QuantityListener.focusLost(FocusEvent).quanity&apos;&#x0A;- Renamed element: &apos;quanity&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;quanity&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;cp213{OrderPanel.java[OrderPanel[QuantityListener~focusLost~QFocusEvent;@quanity!1913!1928!1917!1923!I!0!false" name="quantity" references="true" stamp="1732861632557" version="1.0"/>
+</session>

@@ -1,0 +1,48 @@
+BST Data Structures Tests
+
+Tests are of the form:
+  Test Operation {expected data}: actual data
+  Contents: [contents from front to rear]
+
+================================================================================
+Testing BST
+  isEmpty {true}: false
+----------------------------------------
+Insert data: [1, 2, 3]
+  isEmpty {false}: false
+  Contents {[{1: 1}, {2: 1}, {3: 1}]}: [{1: 1}, {2: 1}, {3: 1}]
+  Height {3}: 3
+----------------------------------------
+
+================================================================================
+Testing AVL
+  isEmpty {true}: false
+----------------------------------------
+Insert data: [1, 2, 3]
+  isEmpty {false}: false
+  Contents {[{2: 1}, {1: 1}, {3: 1}]}: [{2: 1}, {1: 1}, {3: 1}]
+  Height {2}: 2
+----------------------------------------
+
+================================================================================
+Testing PopularityTree
+  isEmpty {true}: false
+----------------------------------------
+Insert data: [1, 2, 3]
+  isEmpty {false}: false
+  Contents {[{1: 0}, {2: 0}, {3: 0}]}: [{1: 0}, {2: 0}, {3: 0}]
+  Height {3}: 3
+----------------------------------------
+
+Retrieve data: 
+  retrieve {3: 1}: {3: 1}
+  Contents {[{3: 1}, {1: 0}, {2: 0}]}: [{3: 1}, {1: 0}, {2: 0}]
+  Height {3}: 3
+----------------------------------------
+
+================================================================================
+Testing file: otoos610.txt
+
+Data String: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+  Tree Type: BST
